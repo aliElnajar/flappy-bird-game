@@ -10,3 +10,4 @@ ideaa of the game is you're playing in bird rule passing through some obstacles 
 
 3. that one willl check if bird have height within any obstacle barrier and the same time bird and obstacles are met horizontally when obstacle position horizontally be 0 (which will be last till it pass by the full width) and that's the default fixed bird position
  - if that happened the score will be reset and game will end and we get back to the starting point
+ * used styled components for styling since passing props was needed in the project
