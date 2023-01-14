@@ -1,0 +1,15 @@
+const GRAVITY = 6;
+const BIRD_SIZE = 30;
+const GAME_WIDTH = 500;
+const GAME_HEIGHT = 500;
+const OBSTACLE_WIDTH = 40;
+const JUMB_HEIGHT = 50;
+
+export {
+  GRAVITY,
+  BIRD_SIZE,
+  GAME_WIDTH,
+  GAME_HEIGHT,
+  OBSTACLE_WIDTH,
+  JUMB_HEIGHT,
+};
